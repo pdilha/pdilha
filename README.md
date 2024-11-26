@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi! 👋🏾
 
-<!--
-**pdilha/pdilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://www.linkedin.com/in/r7fael/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn logo" width="52" height="40" />
+  </a>
+  <a href="mailto:rpfs@cesar.school" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail logo" width="52" height="40" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### My name is Rafael Padilha
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Undergraduate student in Computer Science @[CESAR School](https://www.instagram.com/cesarschool/)  
+- 👨🏾‍💻 Currently studying Java  
+- 💡 Projects in Python and C  
+- 🚀 Love a good challenge
