@@ -14,4 +14,3 @@
 - 🎓 Undergraduate student in Computer Science @[CESAR School](https://www.instagram.com/cesarschool/)  
 - 👨🏾‍💻 Currently studying Java  
 - 💡 Projects in Python and C  
-- 🚀 Love a good challenge
